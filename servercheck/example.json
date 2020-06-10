@@ -1,0 +1,7 @@
+[
+    "web-node1:80",
+    "web-node1:8000",
+    "web-node1:3000",
+    "web-node2:80",
+    "web-node2:3000"
+ ]
