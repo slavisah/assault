@@ -4,3 +4,4 @@ Tools developed in scope of the course:
 * [servercheck](/servercheck)
 * [dbexport](/dbexport)
 * [data_checker](/data_checker)
+* [daily_wiki](/daily_wiki)
