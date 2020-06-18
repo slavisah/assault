@@ -17,7 +17,7 @@ DESCRIPTION = 'A model library for accessing an internal forum database.'
 URL = 'https://github.com/slavisah/python-use-cases'
 EMAIL = 'me@example.com'
 AUTHOR = 'Awesome Soul'
-REQUIRES_PYTHON = '>=3.6.0'
+REQUIRES_PYTHON = '>=3.7.0'
 VERSION = '0.1.0'
 
 # What packages are required for this module to be executed?
@@ -120,7 +120,7 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: Implementation :: CPython',
         'Programming Language :: Python :: Implementation :: PyPy'
     ],
